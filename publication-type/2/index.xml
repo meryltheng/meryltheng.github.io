@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Meryl Theng</title>
+    <link>https://meryltheng.github.io/publication-type/2/</link>
+      <atom:link href="https://meryltheng.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://meryltheng.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://meryltheng.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Confronting spatial capture–recapture models with realistic animal movement simulations</title>
+      <link>https://meryltheng.github.io/publications/2022-ecy_scr-movement/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://meryltheng.github.io/publications/2022-ecy_scr-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive assessment of diversity loss in a well-documented tropical insect fauna</title>
+      <link>https://meryltheng.github.io/publications/2021-biolcons_butt-ext/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://meryltheng.github.io/publications/2021-biolcons_butt-ext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring saiga horn consumption in Singapore</title>
+      <link>https://meryltheng.github.io/publications/2018-oryx_saiga/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://meryltheng.github.io/publications/2018-oryx_saiga/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

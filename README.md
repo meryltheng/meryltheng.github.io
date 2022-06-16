@@ -1,3 +1,0 @@
-# meryltheng.github.io
-
-Howdy
