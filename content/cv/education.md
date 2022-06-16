@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD
+    company: University of Adelaide
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    #company_logo: org-gc
+    location: Adelaide
+    date_start: '2019-08-01'
+    date_end: '2022-12-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Developed mechanistic movement simulations based on spatial memory and individual interactions, and using them to 
+        * evaluate statistical models of population abundance estimation and
+        * evaluate animal population control measures to assist in management decisions.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: BSc (Hons)
+    company: National University of Singapore
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #company_logo: org-x
+    location: Singapore
+    date_start: '2008-08-01'
+    date_end: '2012-05-31'
+    description: Honours thesis
 
 design:
   columns: '2'

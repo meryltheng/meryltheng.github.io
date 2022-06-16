@@ -5,10 +5,9 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-active: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Skills
 subtitle:
@@ -17,22 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: Statistics, Simulations, Spatial, RMarkdown
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: R (advanced)
+  - description: Regression, Maximum likelihood, Bayesian inference, 
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: Shell script
+  - description: Shell script, Markdown, Python
     icon: code
     icon_pack: fas
     name: Other languages
-  - description: High Performance Computing
+  - description: Parallel processing
     icon: network-wired
     icon_pack: fas
-    name: Parallel processing
+    name: High Performance Computing
+  - description: QGIS, ArcGIS, R 
+    icon: earth-asia
+    icon_pack: fas
+    name: GIS  
+  - description: Git, Github
+    icon: code-branch
+    icon_pack: fas
+    name: DevOps           
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
